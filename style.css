@@ -93,6 +93,11 @@ background-size: 10%;
   margin-top: 15%;
  
 }
+.carousel-inner img{
+  width: 90%;
+  margin-left: 5%;
+  margin-top: 20%;
+}
 .castillo{
   width: 90%;
   margin-left: 5%;
