@@ -1,5 +1,5 @@
 
-let diaEvento = new Date('Enero 18, 2025 12:30:00').getTime();
+let diaEvento = new Date('January 18, 2025 12:30:00').getTime();
 let boton = document.querySelector("#btn")
 
 
